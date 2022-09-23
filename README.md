@@ -64,3 +64,5 @@ The biggest challange while developing this project was the short timeframe of 5
 - [Supertest](https://www.npmjs.com/package/supertest)
 
 We decided to use React due to it's flexibility as well as becasue it was the framework most familiar to all the team members. We supported it with Auth0 API to allow users to log-in securely. Material UI allowed us to implement well designed elements quickly which was a big factor in finishing the project on time. As with react, our choice of testing tools like Jest and Supertest relied on their flexibility and familiarity. On the backend we used PostgreSQL in tandem with Heroku because of their simplicity and cost-free implementation, it allowed us to deploy the server and databases for free with enough database storage capacity for our app's needs.
+
+Backend for this project: https://github.com/MightyKielsa/bootcamp_adiutor_backend
